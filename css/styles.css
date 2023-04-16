@@ -557,6 +557,17 @@ img {
     justify-content: left;
 }
 
+.footer-list 
+.team-social-link:focus {
+    background-color: var(--color-green);
+}
+
+.footer-list 
+.team-social-link:hover {
+    background-color: var(--color-green);
+}
+
+
 
 /* portfolio  */
 
