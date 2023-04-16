@@ -555,6 +555,7 @@ img {
 
 .footer-right .team-social-list {
     justify-content: left;
+    gap: 16px;
 }
 
 .footer-list 
