@@ -488,7 +488,7 @@ img {
 }
 
 .customers-item {
-    width: 168px;
+    width: calc((100% - 5 * 24px) / 6);
     height: 88px;
 }
 
@@ -515,7 +515,7 @@ img {
 }
 
 .footer {
-    text-decoration: none;
+        text-decoration: none;
     background-color: var(--color-navy-blue);
     padding-top: 100px;
     padding-bottom: 100px;
@@ -530,7 +530,7 @@ img {
 }
 
 .footer-container-right {
-    display: flex;
+    /* display: flex; */
 
 }
 
